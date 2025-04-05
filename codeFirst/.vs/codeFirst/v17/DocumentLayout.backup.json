@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2401688\\source\\repos\\codeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\models\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\models\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\migrations\\20250404101428_createcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\migrations\\20250404101428_createcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|c:\\users\\2401688\\source\\repos\\codefirst\\codefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231D26C7-3F44-4BDB-B0D3-9E399D257B92}|codeFirst\\codeFirst.csproj|solutionrelative:codefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "codeFirst\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Models\\Course.cs",
+              "RelativeToolTip": "codeFirst\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:57:05.773Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "codeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Program.cs",
+              "RelativeToolTip": "codeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:34:07.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "codeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\appsettings.json",
+              "RelativeToolTip": "codeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T10:27:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "codeFirst\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "codeFirst\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:25:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250404101428_CreateCourse.cs",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Migrations\\20250404101428_CreateCourse.cs",
+              "RelativeDocumentMoniker": "codeFirst\\Migrations\\20250404101428_CreateCourse.cs",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Migrations\\20250404101428_CreateCourse.cs",
+              "RelativeToolTip": "codeFirst\\Migrations\\20250404101428_CreateCourse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:14:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseContext.cs",
+              "DocumentMoniker": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Models\\CourseContext.cs",
+              "RelativeDocumentMoniker": "codeFirst\\Models\\CourseContext.cs",
+              "ToolTip": "C:\\Users\\2401688\\source\\repos\\codeFirst\\codeFirst\\Models\\CourseContext.cs",
+              "RelativeToolTip": "codeFirst\\Models\\CourseContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:00:41.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
